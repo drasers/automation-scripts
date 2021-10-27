@@ -1,2 +1,2 @@
 # Scripts
-Contains automation scripts to ease day to day process for developers using any languages
+Contains automation scripts to ease day to day process using any languages
